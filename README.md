@@ -2,8 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg)](#)
-[![Static analysis](https://img.shields.io/badge/analysis-static%20only-brightgreen.svg)](#safety)
 
 Extract the operator configuration embedded in a **gsocket / gs-netcat** binary.
 
